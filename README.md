@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anthonyharold67&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Ahnmet Suat here! Loves developing..
+# Hi there 👋 Ahmet Suat here! Loves developing..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuat67" alt="ahmetsuat67" /> </p>
 📩 Connect with me:
 <br>
