@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetsuat67&show_icons=true&theme=tokyonight" align='right' width="55%">
-
 # Hi there! 👋 I'm Ahmet Suat, a Full-Stack Developer 🚀  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuat67" alt="ahmetsuat67" /> </p>
 
@@ -35,12 +33,6 @@
 ### 🌱 Learning Journey  
 - **Improving:** Advanced TypeScript, Web Performance Optimization  
 - **Exploring:** Machine Learning with Python, Serverless Architecture  
-
----
-
-### 📈 GitHub Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetsuat67&theme=tokyonight&hide_border=true" width="48%">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetsuat67&layout=compact&theme=tokyonight" width="48%">  
 
 ---
 
