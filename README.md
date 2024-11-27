@@ -1,63 +1,54 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetsuat67&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Ahmet Suat here! Loves developing..
+# Hi there! 👋 I'm Ahmet Suat, a Full-Stack Developer 🚀  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuat67" alt="ahmetsuat67" /> </p>
-📩 Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/ahmet-suat-pinar/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/ahmet-suat-pinar/">
-</a>
-<a href="mailto:ahmetsuatpinar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ahmetsuatpinar@gmail.com">
-</a>
-<a>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
-</a>    
 
-### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
-- 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
-- 🥅 Goals: Develop application projects useful to humanity and to participate in these projects in the world.
-- ⚡ Fun fact: i like to play amateur football, running and drive a car .
-- 💬 You can ask me anything you want to know
+### About Me  
+🌟 A passionate **Full-Stack Developer** with a love for crafting seamless user experiences and building scalable backend solutions.  
+✨ I enjoy exploring new technologies and collaborating on impactful projects.  
 
+---
 
-#### ⏲ What we are doing now:
-- 🚀 I'm improving myself right now 📃.
-- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
-- 💻 I also work as a FreeLancer.
+### 🔭 Current Focus  
+- 🌐 Building modern web applications with **React**, **Node.js**, and **Django**.  
+- 🚀 Expanding my knowledge in **cloud computing**, **containerization**, and **microservices architecture**.  
+- 👨‍💻 Working on open-source contributions and personal projects to benefit the community.  
 
-###### 🔧 Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="HTML5" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />][HTML]
-[<img align="left" alt="Javascript" width="54px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
-[<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
-[<img align="left" alt="Linux" width="56px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]
+### 📩 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-suat-pinar/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmetsuatpinar@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ahmetsuat67)  
 
-<br />
+---
 
-[react]: https://tr.reactjs.org/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/ahmetsuat67
-[python]: https://www.python.org/
-[js]: https://www.javascript.com/
-[linux]: https://www.linux.org/
-[HTML]: https://www.w3schools.com/html/
+### 🛠️ Tech Stack & Tools  
+- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3  
+- **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Django, Express.js  
+- **Database:** PostgreSQL, MongoDB, SQLite  
+- **Tools & Platforms:** Docker, Git, Linux, Visual Studio Code  
 
-<br />
-<br />
+---
 
+### 🌱 Learning Journey  
+- **Improving:** Advanced TypeScript, Web Performance Optimization  
+- **Exploring:** Machine Learning with Python, Serverless Architecture  
 
-- 📫 How to reach me:
+---
 
---> 
-<a href="https://www.linkedin.com/in/ahmet-suat-pinar/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/ahmet-suat-pinar/">
-</a>
-<a href="mailto:ahmetsuatpinar" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ahmetsuatpinar@gmail.com">
-</a>
+### 📈 GitHub Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetsuat67&theme=tokyonight&hide_border=true" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetsuat67&layout=compact&theme=tokyonight" width="48%">  
+
+---
+
+### 📌 Fun Facts  
+⚡ I love **football**, **running**, and exploring new tech trends.  
+🎮 Gaming and **learning new frameworks** keep me energized!  
+
+---
+
+### 🔖 Keywords to Highlight  
+**Frontend Development**, **Backend Development**, **REST APIs**, **GraphQL**, **React.js**, **Node.js**, **Django**, **Cloud Computing**, **Agile Development**, **Open Source**, **Scalability**, **UI/UX Design**
