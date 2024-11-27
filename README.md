@@ -43,7 +43,7 @@
 ---
 
 ### 📌 Fun Facts  
-⚡ I love **football**, **running**, and exploring new tech trends.  
+⚡ I love **football**, **running**, **swimming**, **play chess**, and exploring new tech trends.  
 🎮 Gaming and **learning new frameworks** keep me energized!  
 
 ---
