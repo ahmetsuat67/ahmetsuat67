@@ -28,8 +28,8 @@
 </p>
 
 ### 🛠️ Tech Stack & Tools  
-- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3  
-- **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap  
+- **Languages:** JavaScript (ES6+), Python, 
+- **Frontend:**  HTML5, CSS3 , React.js, Redux, Tailwind CSS, Bootstrap , SCSS,  Material UI , Styled Component    
 - **Backend:** Node.js, Django, Express.js  
 - **Database:** PostgreSQL, MongoDB, SQLite  
 - **Tools & Platforms:** Docker, Git, Linux, Visual Studio Code  
@@ -37,7 +37,7 @@
 ---
 
 ### 🌱 Learning Journey  
-- **Improving:** Advanced TypeScript, Web Performance Optimization  
+- **Improving:** Advanced Next.js, TypeScript, Web Performance Optimization  
 - **Exploring:** Machine Learning with Python, Serverless Architecture  
 
 ---
